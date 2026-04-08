@@ -1,0 +1,12 @@
+media =[
+    {"title": "Interstellar", "genre": "Sci fi", "age": "13+", "runtime": "2:49"} 
+    {"title": "War machine", "genre": "action/adventure", "age": "16+", "runtime": "1:49"}
+    {"title": "The Equalizer", "genre": "action/thriller", "age": "15+", "runtime": "2:12"}
+    {"title": "The Conjuring", "genre": "horror", "age": "15+", "runtime": "1:52"}
+    {"title": "Lord Of The Rings", "genre": "action/adventure", "age": "11+", "runtime": "2:58"}
+    {"title": "The Mummy", "genre": "action/adventure", "age": "15+", "runtime": "1:50"}
+    {"title": "Jack Reacher", "genre": "action/thriller", "age": "15+", "runtime": "2:10"}
+    {"title": "2012", "genre": "action/sci fi", "age": "11+", "runtime": "2:38"}
+    {"title": "Bad Boys Ride Or Die", "genre": "action/comedy", "age": "15+", "runtime": "1:55"}
+    {"title": "Terrifier", "genre": "horror/slasher", "age": "18+", "runtime": "1:25"}
+]
